@@ -1,2 +1,2 @@
 # calculator
-this is my first repository wih java swing Desktop
+this is my first repository with java
